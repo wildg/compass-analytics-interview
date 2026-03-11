@@ -23,13 +23,20 @@ The primary objective is to build a customer 360 data model that can support var
 
 ## Task #1: Identify Resolution Strategy
 <i>
-The linking table was developed by a previous internal employee and may have errors thus the client has hired us to provide a new identity resolution strategy to unify the source systems. Your task is to describe (in a diagram, slide and/or pseudocode) how you would approach doing identity resolution across their many systems based on your expertise. Note that a linkage table is provided in the datasets .zip will be used for task #3 while your goal here is to design and not to implement.
+The linking table was developed by a previous internal employee and may have errors thus the client has hired us to provide a new identity resolution strategy to unify the source systems. Your task is to describe (in a diagram, slide and/or pseudocode) how you would approach doing identity resolution across their many systems based on your expertise. Note that a linkage table is provided in the datasets .zip will be used for task #2 while your goal here is to design and not to implement.
 </i>
 
 <br>
 
-> **Assumptions** <br>
-> - TODO
+> **Assumptions**
+> - Some customers have not made a user profile, so we will have to use other methods to match customer profiles with their activities
+> - We have access to all of the provided datasets, both external and internal
+
+<!--
+Ideas:
+- Explore using K-Means clustering for unidentified customer profiles
+- Focus should be on the practicalities of the implementation, we can abstract some of the technical details of matching unidentified customer profiles with their activities
+-->
 
 ## Task #2: Build the Customer 360 Gold Table
 <i>
@@ -44,6 +51,8 @@ Using the datasets provided, as well as the linkage table, design and implement 
 - Number of retail purchases in the last 90 days
 - Days since last brand interaction (via any channel: ticket, web, retail, or CRM)
 </i>
+
+<br>
 
 > **Assumptions**
 > - TODO
