@@ -1,0 +1,401 @@
+customer_id,contact_date,interaction_type,opportunity_stage
+sfc_d8a09cb1,2023-11-01,Meeting,Qualified
+sfc_59a785df,2024-04-30,Call,Closed Won
+sfc_3c34313c,2022-12-26,Email,Proposal
+sfc_67c124a0,2023-02-16,Email,Proposal
+sfc_e3e4d54a,2022-09-28,Email,Proposal
+sfc_ba60d7fe,2025-01-09,Email,Closed Won
+sfc_1f90e4b0,2024-01-20,Email,Closed Lost
+sfc_66b89ab2,2024-12-23,Meeting,Closed Lost
+sfc_09be67d7,2024-10-24,Call,Qualified
+sfc_ba60d7fe,2023-07-13,Meeting,Closed Lost
+sfc_0d6866f8,2022-12-03,Email,Closed Lost
+sfc_3ca61c88,2023-06-11,Email,Proposal
+sfc_ebd36117,2024-09-13,Email,Proposal
+sfc_85024256,2023-08-28,Email,Qualified
+sfc_184cf634,2023-11-25,Call,Prospecting
+sfc_4e6ee761,2022-08-24,Email,Qualified
+sfc_3314aea6,2024-08-17,Call,Qualified
+sfc_0d6866f8,2022-06-04,Email,Closed Won
+sfc_33d47573,2022-10-16,Call,Closed Won
+sfc_0d6866f8,2023-04-08,Meeting,Qualified
+sfc_99bdadb1,2024-03-24,Email,Qualified
+sfc_3e78e405,2025-02-15,Call,Qualified
+sfc_8cf5a3a3,2024-01-20,Meeting,Closed Lost
+sfc_0fcffaae,2022-07-04,Email,Closed Won
+sfc_a8f22e18,2024-03-19,Email,Qualified
+sfc_ff20ddc5,2022-01-29,Email,Proposal
+sfc_82995992,2023-06-26,Call,Proposal
+sfc_7959a154,2025-01-03,Call,Closed Lost
+sfc_2ec44bad,2022-09-11,Meeting,Closed Lost
+sfc_a04a6e47,2024-07-20,Call,Prospecting
+sfc_c8e5c224,2024-01-25,Call,Prospecting
+sfc_41031581,2023-06-21,Email,Prospecting
+sfc_3d4a8b54,2025-04-12,Email,Closed Lost
+sfc_ba60d7fe,2024-02-20,Email,Closed Lost
+sfc_e3e4d54a,2024-01-31,Email,Closed Lost
+sfc_ebd36117,2022-08-10,Email,Proposal
+sfc_95d6391b,2023-04-24,Email,Closed Lost
+sfc_e52ccd5b,2024-08-23,Email,Proposal
+sfc_92b8274b,2022-02-21,Meeting,Prospecting
+sfc_aeff481b,2025-06-22,Meeting,Prospecting
+sfc_9ecefb52,2025-02-23,Meeting,Prospecting
+sfc_28568d9e,2023-11-03,Meeting,Qualified
+sfc_7959a154,2025-06-03,Email,Qualified
+sfc_420ab0f7,2023-03-30,Meeting,Closed Won
+sfc_fa33603c,2022-05-10,Email,Closed Won
+sfc_55954a98,2024-08-08,Meeting,Closed Won
+sfc_c5380711,2023-09-11,Call,Qualified
+sfc_5fb09b08,2024-04-16,Meeting,Qualified
+sfc_64ea6514,2022-08-27,Meeting,Closed Won
+sfc_3c34313c,2022-10-14,Email,Closed Won
+sfc_62352f60,2022-04-03,Meeting,Closed Lost
+sfc_ff20ddc5,2022-03-18,Call,Closed Won
+sfc_4e6ee761,2023-09-16,Email,Closed Lost
+sfc_cecd5a9d,2024-10-05,Email,Proposal
+sfc_c63e2f20,2022-08-26,Meeting,Qualified
+sfc_dca11fe5,2022-07-19,Email,Closed Won
+sfc_2c494f69,2023-04-26,Email,Qualified
+sfc_3ca61c88,2025-01-05,Email,Qualified
+sfc_3c34313c,2022-10-05,Email,Qualified
+sfc_62352f60,2024-03-06,Email,Proposal
+sfc_f3747bb3,2024-07-18,Email,Prospecting
+sfc_3cd66ab7,2024-01-30,Call,Closed Won
+sfc_14559a09,2025-01-11,Meeting,Prospecting
+sfc_3ca61c88,2024-05-08,Call,Prospecting
+sfc_44eb43f0,2025-04-17,Email,Prospecting
+sfc_743efab3,2022-11-13,Email,Qualified
+sfc_40bc5949,2024-04-29,Meeting,Closed Lost
+sfc_14559a09,2022-07-22,Call,Qualified
+sfc_a2176447,2024-09-29,Meeting,Qualified
+sfc_b373dd93,2025-06-14,Call,Prospecting
+sfc_bd8a305e,2024-04-15,Email,Qualified
+sfc_0c9a3db0,2023-07-27,Meeting,Prospecting
+sfc_91a7f78c,2022-03-09,Meeting,Closed Lost
+sfc_a04a6e47,2024-01-29,Email,Closed Won
+sfc_53d9ef9c,2023-03-21,Meeting,Prospecting
+sfc_82995992,2024-06-27,Call,Closed Lost
+sfc_a2176447,2024-06-29,Call,Closed Won
+sfc_62352f60,2023-04-29,Call,Proposal
+sfc_11b11d6a,2024-01-13,Call,Prospecting
+sfc_a700dee1,2022-07-23,Email,Prospecting
+sfc_85024256,2024-01-23,Meeting,Proposal
+sfc_3d4a8b54,2025-01-20,Call,Proposal
+sfc_743efab3,2024-01-05,Email,Prospecting
+sfc_ad1ab8bd,2022-05-05,Meeting,Proposal
+sfc_3d4a8b54,2024-03-26,Meeting,Qualified
+sfc_e294fac0,2023-07-20,Email,Closed Won
+sfc_59f0f093,2023-01-24,Email,Closed Won
+sfc_62352f60,2022-09-08,Call,Closed Won
+sfc_81e584b2,2024-07-20,Meeting,Qualified
+sfc_33d47573,2022-07-07,Meeting,Proposal
+sfc_3314aea6,2023-03-11,Email,Closed Lost
+sfc_33d47573,2025-05-07,Meeting,Proposal
+sfc_c5380711,2022-02-13,Call,Prospecting
+sfc_91a7f78c,2022-04-14,Meeting,Closed Won
+sfc_32e80424,2023-11-15,Email,Proposal
+sfc_f146c6d2,2023-05-14,Email,Closed Lost
+sfc_3ca61c88,2022-09-15,Call,Prospecting
+sfc_d8a09cb1,2025-03-02,Call,Qualified
+sfc_e294fac0,2023-02-25,Meeting,Qualified
+sfc_ad1ab8bd,2022-05-21,Meeting,Closed Lost
+sfc_7959a154,2025-02-09,Email,Prospecting
+sfc_53bb6c2b,2023-03-01,Call,Closed Won
+sfc_b9cb08f8,2025-04-15,Call,Proposal
+sfc_55954a98,2023-03-19,Call,Prospecting
+sfc_aeff481b,2023-04-23,Meeting,Qualified
+sfc_cd4aaefb,2023-11-04,Call,Closed Lost
+sfc_352da2c4,2022-10-30,Email,Closed Lost
+sfc_ad2c9dd4,2025-05-05,Email,Proposal
+sfc_32e80424,2022-01-06,Meeting,Closed Lost
+sfc_9f608612,2023-07-22,Meeting,Closed Lost
+sfc_59a785df,2022-10-24,Call,Prospecting
+sfc_81e584b2,2022-09-24,Meeting,Closed Won
+sfc_5ff580fd,2025-01-11,Email,Proposal
+sfc_b373dd93,2023-05-29,Call,Prospecting
+sfc_1647ea20,2022-12-24,Email,Closed Won
+sfc_95d6391b,2022-08-14,Call,Prospecting
+sfc_2ec44bad,2022-02-22,Meeting,Prospecting
+sfc_2ec44bad,2022-09-27,Call,Closed Lost
+sfc_7a960360,2022-01-31,Call,Closed Won
+sfc_5fce1e34,2024-01-04,Email,Proposal
+sfc_4d3eb3c6,2023-05-03,Email,Proposal
+sfc_b373dd93,2025-04-20,Call,Closed Won
+sfc_585e9260,2023-10-26,Meeting,Closed Lost
+sfc_7a960360,2022-02-02,Meeting,Qualified
+sfc_7a960360,2022-12-23,Email,Prospecting
+sfc_6e70fffa,2023-06-28,Meeting,Closed Lost
+sfc_5fb09b08,2022-04-18,Email,Closed Won
+sfc_ad2c9dd4,2022-09-17,Meeting,Prospecting
+sfc_64ea6514,2024-05-12,Call,Proposal
+sfc_79f3c2c1,2024-12-13,Email,Qualified
+sfc_980429b7,2022-08-21,Email,Proposal
+sfc_0620a16c,2022-05-11,Call,Closed Won
+sfc_3ca61c88,2024-09-02,Email,Prospecting
+sfc_9521b5d7,2024-07-07,Meeting,Closed Won
+sfc_5fb09b08,2024-01-12,Meeting,Prospecting
+sfc_7a960360,2024-11-17,Email,Closed Lost
+sfc_82995992,2025-04-30,Meeting,Qualified
+sfc_0620a16c,2022-08-12,Email,Closed Lost
+sfc_2dcea9ce,2024-07-14,Call,Closed Lost
+sfc_b373dd93,2024-10-28,Email,Closed Won
+sfc_744ca3de,2023-03-30,Call,Qualified
+sfc_67a3bb73,2025-06-13,Meeting,Prospecting
+sfc_904b8164,2022-03-30,Call,Prospecting
+sfc_11b3cfa3,2024-12-03,Meeting,Proposal
+sfc_a04a6e47,2023-09-10,Email,Prospecting
+sfc_d816e9ce,2024-07-27,Meeting,Closed Won
+sfc_66b89ab2,2022-03-05,Email,Closed Lost
+sfc_55954a98,2022-05-05,Email,Closed Lost
+sfc_89895865,2024-09-07,Call,Closed Lost
+sfc_bd8a305e,2024-04-02,Call,Qualified
+sfc_e294fac0,2024-05-23,Call,Prospecting
+sfc_3da3933b,2022-08-10,Call,Closed Won
+sfc_81e584b2,2024-10-01,Meeting,Qualified
+sfc_9cd61f8e,2024-06-27,Meeting,Proposal
+sfc_47f55d6f,2022-05-31,Meeting,Closed Won
+sfc_09be67d7,2022-06-15,Email,Closed Won
+sfc_33d47573,2023-10-22,Meeting,Closed Won
+sfc_91a7f78c,2025-05-30,Meeting,Closed Lost
+sfc_0469480d,2022-10-31,Meeting,Closed Won
+sfc_09be67d7,2022-05-15,Call,Prospecting
+sfc_cf359d24,2022-09-16,Meeting,Closed Won
+sfc_0c9a3db0,2023-07-18,Email,Closed Lost
+sfc_2dcea9ce,2025-04-13,Call,Closed Won
+sfc_d8a09cb1,2025-01-28,Email,Proposal
+sfc_5fce1e34,2023-10-28,Meeting,Proposal
+sfc_f400cd13,2024-02-20,Call,Closed Lost
+sfc_ba60d7fe,2025-05-08,Email,Prospecting
+sfc_9521b5d7,2024-12-22,Meeting,Prospecting
+sfc_53bb6c2b,2023-08-27,Email,Qualified
+sfc_11b11d6a,2024-07-18,Email,Closed Lost
+sfc_e7775040,2024-11-01,Email,Closed Won
+sfc_2fc1e87c,2025-05-24,Meeting,Closed Lost
+sfc_c7852720,2024-05-31,Meeting,Qualified
+sfc_68a7d625,2022-07-23,Email,Closed Lost
+sfc_352da2c4,2022-08-23,Call,Closed Lost
+sfc_690ea6aa,2025-02-03,Call,Qualified
+sfc_aeff481b,2023-03-17,Meeting,Prospecting
+sfc_92b8274b,2024-05-30,Meeting,Closed Won
+sfc_46ce6284,2024-07-13,Meeting,Qualified
+sfc_6c434816,2023-04-13,Meeting,Proposal
+sfc_5fb09b08,2024-04-27,Meeting,Prospecting
+sfc_1c47a8c6,2023-11-26,Call,Proposal
+sfc_f3747bb3,2024-07-17,Meeting,Prospecting
+sfc_ad2c9dd4,2024-03-27,Email,Closed Won
+sfc_281c93ad,2024-05-01,Email,Closed Won
+sfc_1db4a30e,2022-07-14,Call,Closed Lost
+sfc_a8f22e18,2023-10-03,Email,Proposal
+sfc_0d6866f8,2024-05-24,Call,Prospecting
+sfc_33d47573,2023-10-03,Call,Closed Won
+sfc_b75164b1,2023-06-07,Email,Qualified
+sfc_2fc1e87c,2024-02-06,Meeting,Closed Won
+sfc_3cd66ab7,2022-11-09,Email,Qualified
+sfc_6c434816,2024-08-29,Email,Prospecting
+sfc_00c9e689,2022-05-18,Call,Closed Won
+sfc_59f0f093,2022-07-06,Email,Closed Won
+sfc_53d9ef9c,2022-06-24,Call,Prospecting
+sfc_53bb6c2b,2022-07-10,Meeting,Closed Won
+sfc_e52ccd5b,2024-06-03,Meeting,Qualified
+sfc_41031581,2022-07-17,Meeting,Closed Won
+sfc_982e7142,2024-02-03,Email,Proposal
+sfc_072638eb,2022-09-24,Call,Closed Lost
+sfc_3d4a8b54,2025-02-13,Meeting,Qualified
+sfc_9240f27b,2022-05-03,Call,Proposal
+sfc_dca11fe5,2025-04-16,Call,Prospecting
+sfc_1c47a8c6,2025-02-24,Meeting,Qualified
+sfc_5b384255,2025-02-24,Meeting,Closed Lost
+sfc_3e78e405,2023-11-07,Call,Closed Lost
+sfc_3d4a8b54,2022-09-08,Meeting,Prospecting
+sfc_5b384255,2024-04-21,Call,Prospecting
+sfc_4e6ee761,2023-12-26,Call,Qualified
+sfc_47f55d6f,2024-05-16,Meeting,Closed Won
+sfc_67c124a0,2022-04-16,Email,Prospecting
+sfc_89895865,2023-08-13,Meeting,Closed Won
+sfc_a8f22e18,2025-05-14,Email,Proposal
+sfc_6c434816,2023-10-02,Call,Closed Lost
+sfc_5f137b24,2023-12-22,Call,Closed Won
+sfc_28568d9e,2022-08-01,Email,Closed Lost
+sfc_af067ad2,2025-03-29,Call,Closed Won
+sfc_c684b028,2024-11-05,Email,Proposal
+sfc_dca11fe5,2023-03-12,Email,Prospecting
+sfc_66b89ab2,2022-11-13,Call,Proposal
+sfc_e52ccd5b,2024-09-14,Email,Prospecting
+sfc_af067ad2,2023-04-05,Meeting,Prospecting
+sfc_e294fac0,2022-08-10,Meeting,Closed Lost
+sfc_19a2fd3f,2023-12-19,Call,Proposal
+sfc_4e6ee761,2025-02-13,Call,Closed Won
+sfc_567abb2f,2024-01-23,Email,Proposal
+sfc_11b3cfa3,2022-08-24,Email,Closed Lost
+sfc_32e80424,2023-07-25,Email,Prospecting
+sfc_982e7142,2025-03-21,Email,Closed Lost
+sfc_7959a154,2023-04-09,Meeting,Qualified
+sfc_dd7928c5,2024-05-28,Meeting,Qualified
+sfc_53bb6c2b,2025-02-22,Call,Closed Won
+sfc_e7775040,2025-06-27,Email,Closed Lost
+sfc_dd7928c5,2025-06-10,Email,Closed Won
+sfc_3314aea6,2025-02-14,Call,Closed Won
+sfc_cecd5a9d,2022-02-23,Email,Qualified
+sfc_9c61a6ec,2025-06-01,Email,Closed Won
+sfc_5f8b8414,2023-07-02,Email,Qualified
+sfc_09be67d7,2022-03-01,Email,Prospecting
+sfc_980cc50c,2023-01-05,Email,Closed Lost
+sfc_3cd66ab7,2023-07-14,Call,Closed Won
+sfc_f4093104,2023-09-25,Email,Qualified
+sfc_5f137b24,2023-11-27,Call,Proposal
+sfc_14559a09,2023-12-20,Email,Closed Won
+sfc_14559a09,2022-01-13,Meeting,Prospecting
+sfc_53bb6c2b,2023-01-07,Meeting,Prospecting
+sfc_744ca3de,2022-10-21,Meeting,Proposal
+sfc_da31e507,2025-03-05,Meeting,Qualified
+sfc_e294fac0,2024-03-31,Call,Closed Won
+sfc_f990f0b3,2022-05-23,Call,Qualified
+sfc_f3747bb3,2022-10-18,Email,Prospecting
+sfc_92b8274b,2022-03-04,Meeting,Qualified
+sfc_ad1ab8bd,2022-07-07,Call,Prospecting
+sfc_d8a09cb1,2024-12-22,Email,Qualified
+sfc_8cf5a3a3,2023-03-17,Email,Proposal
+sfc_68a7d625,2024-02-10,Call,Closed Lost
+sfc_32e80424,2024-05-09,Meeting,Proposal
+sfc_4755dd0d,2024-07-18,Email,Proposal
+sfc_585e9260,2023-11-30,Meeting,Closed Lost
+sfc_7959a154,2022-11-19,Meeting,Closed Lost
+sfc_14559a09,2024-01-28,Meeting,Closed Won
+sfc_5f137b24,2023-10-01,Email,Closed Won
+sfc_e3e4d54a,2023-10-27,Meeting,Proposal
+sfc_60afb840,2025-03-08,Email,Proposal
+sfc_f39d7a25,2025-05-06,Meeting,Prospecting
+sfc_1647ea20,2022-06-23,Email,Prospecting
+sfc_2dcea9ce,2022-04-18,Meeting,Closed Won
+sfc_c684b028,2022-11-15,Call,Closed Won
+sfc_9521b5d7,2022-11-19,Meeting,Prospecting
+sfc_0d6866f8,2025-06-19,Meeting,Prospecting
+sfc_3314aea6,2022-04-12,Email,Qualified
+sfc_3e78e405,2022-06-17,Email,Qualified
+sfc_742187b8,2023-07-12,Meeting,Prospecting
+sfc_b9cb08f8,2024-06-26,Call,Qualified
+sfc_32e80424,2024-05-18,Call,Closed Lost
+sfc_a3560f3b,2024-09-21,Email,Closed Won
+sfc_4e6ee761,2025-05-28,Call,Closed Won
+sfc_0d6866f8,2024-06-24,Meeting,Prospecting
+sfc_904b8164,2024-04-28,Email,Proposal
+sfc_33d47573,2023-07-14,Meeting,Prospecting
+sfc_e294fac0,2023-03-18,Email,Qualified
+sfc_3ca61c88,2024-11-15,Email,Proposal
+sfc_59a785df,2022-08-22,Email,Qualified
+sfc_28568d9e,2023-12-08,Email,Closed Lost
+sfc_f146c6d2,2024-05-30,Call,Qualified
+sfc_184cf634,2022-08-16,Meeting,Closed Lost
+sfc_c63e2f20,2023-08-04,Meeting,Closed Lost
+sfc_a8f22e18,2025-04-29,Meeting,Qualified
+sfc_d816e9ce,2024-09-23,Email,Qualified
+sfc_97b5013a,2024-12-15,Call,Closed Lost
+sfc_cd4aaefb,2023-09-24,Meeting,Proposal
+sfc_980cc50c,2022-04-04,Call,Closed Lost
+sfc_f39d7a25,2023-03-28,Email,Closed Won
+sfc_7a960360,2024-03-20,Meeting,Closed Lost
+sfc_91a7f78c,2025-05-12,Call,Proposal
+sfc_28568d9e,2022-04-23,Email,Closed Won
+sfc_904b8164,2022-01-16,Call,Prospecting
+sfc_f146c6d2,2023-02-23,Meeting,Prospecting
+sfc_3c34313c,2023-09-10,Meeting,Proposal
+sfc_281c93ad,2023-03-09,Email,Closed Lost
+sfc_9ecefb52,2022-10-09,Email,Qualified
+sfc_aeff481b,2023-06-08,Email,Proposal
+sfc_da31e507,2023-08-16,Call,Closed Won
+sfc_99bdadb1,2023-11-03,Call,Closed Won
+sfc_743efab3,2022-09-03,Call,Prospecting
+sfc_ba60d7fe,2022-01-16,Email,Closed Won
+sfc_dd7928c5,2024-10-15,Meeting,Proposal
+sfc_67a3bb73,2024-05-31,Meeting,Closed Won
+sfc_0c9a3db0,2022-12-26,Call,Proposal
+sfc_567abb2f,2022-09-22,Call,Qualified
+sfc_4755dd0d,2024-02-18,Meeting,Prospecting
+sfc_1251674d,2024-12-26,Meeting,Closed Won
+sfc_47f55d6f,2023-04-17,Call,Proposal
+sfc_53bb6c2b,2024-10-21,Call,Closed Lost
+sfc_67c124a0,2025-02-18,Meeting,Prospecting
+sfc_5fce1e34,2023-12-27,Email,Qualified
+sfc_5ff580fd,2022-05-28,Call,Proposal
+sfc_66b89ab2,2024-03-24,Meeting,Qualified
+sfc_a700dee1,2022-03-28,Meeting,Qualified
+sfc_3e78e405,2024-06-12,Meeting,Closed Won
+sfc_af067ad2,2022-02-08,Meeting,Closed Won
+sfc_f4093104,2024-07-30,Email,Proposal
+sfc_67c124a0,2022-06-09,Meeting,Closed Lost
+sfc_f146c6d2,2023-10-04,Call,Proposal
+sfc_91a7f78c,2025-03-25,Email,Closed Lost
+sfc_2ec44bad,2024-05-29,Meeting,Qualified
+sfc_da31e507,2025-03-20,Email,Prospecting
+sfc_5f8b8414,2024-04-08,Call,Proposal
+sfc_fa33603c,2024-05-05,Meeting,Proposal
+sfc_91a7f78c,2023-08-16,Call,Closed Lost
+sfc_988f3646,2022-08-24,Meeting,Qualified
+sfc_352da2c4,2024-04-09,Meeting,Qualified
+sfc_f146c6d2,2022-02-12,Meeting,Closed Lost
+sfc_60539fb4,2023-10-28,Meeting,Qualified
+sfc_99bdadb1,2022-12-18,Meeting,Closed Won
+sfc_f3747bb3,2025-06-19,Email,Prospecting
+sfc_9cd61f8e,2024-07-31,Meeting,Proposal
+sfc_1c47a8c6,2024-01-12,Meeting,Prospecting
+sfc_79f3c2c1,2022-06-30,Email,Proposal
+sfc_6209c844,2024-06-13,Email,Closed Won
+sfc_2dcea9ce,2022-08-05,Email,Qualified
+sfc_47f55d6f,2023-05-14,Email,Closed Lost
+sfc_b373dd93,2024-06-11,Email,Closed Won
+sfc_91a7f78c,2025-04-21,Email,Prospecting
+sfc_81e584b2,2024-03-31,Meeting,Closed Lost
+sfc_c684b028,2024-12-09,Meeting,Qualified
+sfc_bd2f84d4,2022-06-11,Call,Closed Won
+sfc_ba60d7fe,2024-03-21,Meeting,Closed Lost
+sfc_6c434816,2023-09-28,Meeting,Closed Won
+sfc_9ecefb52,2023-11-27,Email,Closed Won
+sfc_46ce6284,2023-03-30,Email,Qualified
+sfc_fa33603c,2023-11-14,Meeting,Proposal
+sfc_c8e5c224,2022-12-11,Call,Closed Lost
+sfc_c5380711,2022-06-06,Email,Qualified
+sfc_7959a154,2024-11-11,Meeting,Closed Won
+sfc_806bc30d,2022-08-22,Meeting,Qualified
+sfc_3da3933b,2024-12-22,Call,Proposal
+sfc_5b384255,2024-11-10,Call,Closed Lost
+sfc_a8f22e18,2023-02-02,Email,Proposal
+sfc_9cd61f8e,2023-12-17,Call,Prospecting
+sfc_9ecefb52,2023-12-21,Meeting,Closed Lost
+sfc_6e70fffa,2022-10-30,Meeting,Proposal
+sfc_1c47a8c6,2023-04-29,Call,Closed Won
+sfc_85024256,2022-07-30,Call,Closed Lost
+sfc_b9cb08f8,2022-10-27,Call,Closed Lost
+sfc_744ca3de,2023-06-09,Call,Qualified
+sfc_744ca3de,2023-02-09,Email,Closed Won
+sfc_0d6866f8,2022-12-22,Call,Prospecting
+sfc_60afb840,2025-05-18,Email,Proposal
+sfc_6209c844,2022-11-10,Meeting,Qualified
+sfc_aeff481b,2022-06-04,Call,Proposal
+sfc_f400cd13,2022-12-29,Email,Prospecting
+sfc_988f3646,2024-10-08,Call,Prospecting
+sfc_420ab0f7,2024-08-08,Meeting,Closed Lost
+sfc_4755dd0d,2025-02-28,Meeting,Prospecting
+sfc_e294fac0,2025-04-01,Meeting,Proposal
+sfc_92b8274b,2024-07-08,Call,Closed Won
+sfc_904b8164,2025-03-02,Call,Closed Won
+sfc_3da3933b,2023-10-24,Email,Closed Lost
+sfc_f78a3ca2,2023-10-10,Meeting,Proposal
+sfc_1db4a30e,2022-11-06,Call,Proposal
+sfc_cf359d24,2024-06-19,Meeting,Prospecting
+sfc_5fce1e34,2022-05-20,Meeting,Proposal
+sfc_4e6ee761,2024-08-18,Email,Qualified
+sfc_4755dd0d,2024-06-24,Email,Prospecting
+sfc_744ca3de,2023-09-13,Email,Qualified
+sfc_a3560f3b,2023-07-17,Email,Closed Lost
+sfc_b373dd93,2025-04-26,Meeting,Closed Won
+sfc_f39d7a25,2022-04-26,Email,Closed Lost
+sfc_6209c844,2023-12-22,Email,Closed Won
+sfc_742187b8,2024-11-05,Email,Closed Lost
+sfc_281c93ad,2022-06-01,Email,Proposal
+sfc_b9cb08f8,2023-09-28,Meeting,Qualified
+sfc_c7852720,2024-08-03,Email,Closed Won
+sfc_184cf634,2024-07-14,Meeting,Prospecting
+sfc_2ec44bad,2022-03-19,Call,Qualified
+sfc_6c434816,2022-04-27,Meeting,Prospecting
+sfc_c7852720,2024-01-26,Meeting,Qualified
+sfc_982e7142,2023-08-11,Email,Qualified
