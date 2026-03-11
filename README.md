@@ -21,6 +21,21 @@ The primary objective is to build a customer 360 data model that can support var
 | Customer Profiles | - `customer.csv`: Partial demographic and signup metadata across systems |
 | Customer Linkage | - `customer_linkage.csv`: A mapping table linking system-specific customer IDs to a shared universal_id |
 
+## EDA Insights
+
+### Takeaways
+## Takeaways
+- Customer identifiers are source-system specific (`tmc_`, `sfc_`, `gac_`, `rtc_`), so direct joins on `customer_id` across systems are invalid
+- The provided `customer_linkage` table is useful for Task 2, but its coverage is limited relative to the raw source populations
+- Date fields across the datasets need to be standardized to datetime before any recency-based features are calculated
+- For Task 2, unresolved source-system customers should still be preserved where possible as single-system records rather than dropped
+
+### Strategy
+
+- **Fallback strategy needed** for source IDs not in the linkage table: either create single-system records or accept data loss.
+- **"Last 90 days"** and **"days since last interaction"** features depend on a clear reference date. Check whether to use `max(all dates)` or today's date.
+- **Cross-system joins** must go through the linkage table; never compare `tmc_*` IDs directly to `sfc_*` IDs.
+
 ## Task #1: Identify Resolution Strategy
 <i>
 The linking table was developed by a previous internal employee and may have errors thus the client has hired us to provide a new identity resolution strategy to unify the source systems. Your task is to describe (in a diagram, slide and/or pseudocode) how you would approach doing identity resolution across their many systems based on your expertise. Note that a linkage table is provided in the datasets .zip will be used for task #2 while your goal here is to design and not to implement.
@@ -55,7 +70,7 @@ Using the datasets provided, as well as the linkage table, design and implement 
 <br>
 
 > **Assumptions**
-> - TODO
+> - We should use the linkage table as a part of our solution even though there are potential problems with it, as outlined in task #1 and in the EDA step
 
 ## Task #3: Data Platform Overview
 <i>
