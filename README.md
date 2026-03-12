@@ -47,6 +47,16 @@ The linking table was developed by a previous internal employee and may have err
 > - Some customers have not made a user profile, so we will have to use other methods to match customer profiles with their activities
 > - We have access to all of the provided datasets, both external and internal
 
+### Proposed ERD
+
+![Entity Relationship Diagram](images/ERD.png)
+
+### Proposed Identity Resolution Strategy
+
+For this case study, identity resolution uses the provided customer_linkage table as the bridge between source-specific customer IDs and a shared universal_id. Each source record is first mapped to its corresponding universal_id, and records not found in the linkage table are preserved as deterministic single-system customers instead of being dropped. This allows the Customer 360 build to retain maximum coverage while still supporting cross-system aggregation where linkage exists.
+
+This is a practical, linkage-driven approach aligned to the available data and the gold table notebook implementation. In production, this would likely be extended with stronger matching and validation logic, but for this task the linkage table is used as the trusted resolution layer for feature generation and final customer_360 assembly.
+
 <!--
 Ideas:
 - Explore using K-Means clustering for unidentified customer profiles
