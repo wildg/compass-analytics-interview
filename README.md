@@ -92,7 +92,14 @@ The client’s systems are based on legacy RDBMS data mart with pipelines stitch
 <br>
 
 > **Assumptions**
-> - TODO
+> - The data for different systems is available using different methods (e.g. API, database connection, file export). We can use different tools to pull from each source system as long as we can explain the rationale for our choices
+
+### Data Architecture Diagram
+
+![Data Architecture Diagram](images/DataArchitecture.png)
+
+## Presentation Link
+https://docs.google.com/presentation/d/1bhlADSKcUe6Sc_UYgl3jT5dbhJMQVq_ZTgr4gubvLSk/edit?usp=sharing
 
 <!--
 Ideas:
@@ -100,24 +107,3 @@ Ideas:
 - Identify specific ways to pull from different data sources. Create a new slide for each of the data sources
 - Identify which flows need to be migrated and how they should be migrated
 -->
-
-## Project Extensions
-
-> **Assumptions**
-> - **Canadian Law**: The project is for a Canadian business. Thus, we only have to worry about Canadian regulation
-
-### Data Governance
-<!-- Consider performing governance training on best practices for the data platform -->
-TODO
-
-### IT & Business Continuity
-<!-- Establish a plan to maintain the data pipeline and migration knowledge and keep teams un-siloed -->
-TODO
-
-### Regulatory Compliance
-<!-- Consider any regulatory issues with the data -->
-TODO
-
-### Future State
-<!-- Recommend future state changes to make the data pipeline better and suggest potential upgrades to the system. Include additional external data sources and how they should be pulled -->
-TODO
