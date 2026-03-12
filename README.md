@@ -82,6 +82,8 @@ Using the datasets provided, as well as the linkage table, design and implement 
 > **Assumptions**
 > - We should use the linkage table as a part of our solution even though there are potential problems with it, as outlined in task #1 and in the EDA step
 
+See the notebook results: [gold_extraction.ipynb](gold_extraction.ipynb)
+
 ## Task #3: Data Platform Overview
 <i>
 The client’s systems are based on legacy RDBMS data mart with pipelines stitched together with cron jobs running on virtual machine (VMs) while data governance is non-existent except for tribal knowledge accumulated within the IT team. Your task is to propose (as a diagram or a slide) a high-level data platform architecture to host the pipelines integrating source data to a centralized repository, and which is cloud-native, scalable, and can do both Data & ML. You may combine multiple platforms and tools as long as you can explain what and why to the client.
